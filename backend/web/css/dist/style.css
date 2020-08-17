@@ -1,0 +1,21 @@
+body{
+    font-size: 16px !important;
+}
+.btn{
+    font-size: 15px !important;
+}
+.user-panel img{
+    width: 4.1rem!important;
+}
+.card-title {
+
+     font-size: 20px !important;
+     font-weight: 400;
+     margin: 0;
+}
+.text-sm {
+     font-size: 15px!important;
+}
+.form-control {
+    font-size: 2rem !important;
+}
